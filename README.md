@@ -1,6 +1,5 @@
 # Permanent-Eon
-
-##Materials:
+## Materials:
 - Oneplus 3T or Leeco Le Pro 3
 - GoPro mount (https://www.amazon.com/gp/product/B00JCTQ3RE)
 - 5v USB Fan
@@ -12,7 +11,7 @@
 - USB Splitter
 - Magnetic USB C cord (https://www.amazon.com/gp/product/B07MV9FF95)
 
-##Instructions:
+## Instructions
 1. Print Permanent Mount 24 degrees.stl using a brim out of a heat resistant material such as ABS, ASA, or potentially annealed PLA.
 2. Print Magnetic USB C clip.stl.
 3. Print two of the fan adapter STLs that match the fan(s) you are using.
