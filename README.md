@@ -1,5 +1,5 @@
 # Permanent-Eon
-![Permanent Eon](/Images/Front.png | Width 200)
+![Permanent Eon](/Images/Front.png)
 ## Materials:
 - Oneplus 3T or Leeco Le Pro 3
 - GoPro mount (https://www.amazon.com/gp/product/B00JCTQ3RE)
