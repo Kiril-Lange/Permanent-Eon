@@ -1,5 +1,5 @@
 # Permanent-Eon
-![Permanent Eon](/Images/Front.png)
+<img src="https://raw.githubusercontent.com/Kiril-Lange/Permanent-Eon/master/Images/Front.png" width="400" /><img src="https://raw.githubusercontent.com/Kiril-Lange/Permanent-Eon/master/Images/Mounted.jpg" width="400" />
 ## Materials:
 - Oneplus 3T or Leeco Le Pro 3
 - GoPro mount (https://www.amazon.com/gp/product/B00JCTQ3RE)
@@ -21,5 +21,5 @@
 5. Press the USB cord into the printed clip and insert into the slot on the side of the main body.
   - May require slight trimming to fit.
 6. Insert the "Name Badge Magnet" piece that contains the magnets into it's slot.
-7. Attach the "Name Badge Magnet" adhesive piece to the back of the phone above the bottom stripe.
+7. Attach the "Name Badge Magnet" adhesive piece to the back of the phone above the bottom stripe.<img src="https://raw.githubusercontent.com/Kiril-Lange/Permanent-Eon/master/Images/Magnet-Location.jpg" width="300" />
 8. Slide the phone into the mount.
