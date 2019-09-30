@@ -8,6 +8,8 @@
   - 40mm x 10mm
   - 2x 40mm x 10
   - 60mm x 15mm
+  - 50mm x Any with screws
+  - 60mm x Any with screws
 - Name Badge Magnets (https://www.amazon.com/gp/product/B001O20V8E)
 - USB Splitter
 - Magnetic USB C cord (https://www.amazon.com/gp/product/B07MV9FF95)
